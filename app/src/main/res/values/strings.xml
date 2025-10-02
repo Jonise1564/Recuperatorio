@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recuperatorio</string>
+    <string name="convertir">Convertir</string>
+    <string name="cambio_a">Cambio a ...</string>
+    <string name="d_lares_a_euros">Dólares a Euros</string>
+    <string name="euros_a_d_lares">Euros a Dólares</string>
+    <string name="euros">Euros</string>
+    <string name="d_lares">Dólares</string>
+    <string name="euros_a_d_laress">Euros a Dólares</string>
+    <string name="d_lares_a_euross">Dólares a Euros</string>
+    <string name="cambio_aa">Cambio a ...</string>
+    <string name="convertirr">Convertir</string>
+    <string name="euross">Euros</string>
+    <string name="d_laress">Dólares</string>
+</resources>
