@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 import com.example.recuperatorio.model.Moneda;
-import com.example.recuperatorio.util.SingleLiveEvent;
+
 
 public class ConversorViewModel extends ViewModel {
     private final MutableLiveData<Boolean> habilitarDolares = new MutableLiveData<>(false);
